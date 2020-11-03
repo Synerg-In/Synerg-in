@@ -15,7 +15,7 @@ function dc_delete_version() {
 }
 add_filter('the_generator', 'dc_delete_version');
 
-
+//test
 // AJOUT DES ICONES FONT AWESOME
 
 function dc_load_fontawesome() {
